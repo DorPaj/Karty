@@ -1,0 +1,39 @@
+#as {
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index: 1;
+	transform: rotate(-30deg);
+}
+
+#krol {
+	position: absolute;
+	left: 175px;
+	top: 100px;
+	z-index: 2;
+	transform: rotate(-10deg);
+}
+
+#dama {
+	position: absolute;
+	left: 200px;
+	top: 125px;
+	z-index: 3;
+	transform: rotate(10deg);
+}
+
+#walet {
+	position: absolute;
+	left: 225px;
+	top: 150px;
+	z-index: 4;
+	transform: rotate(30deg);
+}
+
+#rew {
+	position: absolute;
+	left: 250px;
+	top: 175px;
+	z-index: 5;
+	transform: rotate(50deg);
+}
